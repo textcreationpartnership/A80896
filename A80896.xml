@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Highness, for a collection towards the relief of divers Protestant churches driven out of Poland; and of twenty Protestant families driven out of the confines of Bohemia.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80896</idno>
+            <idno type="STC">Wing C7065</idno>
+            <idno type="STC">Thomason E1073_1</idno>
+            <idno type="STC">ESTC R208230</idno>
+            <idno type="EEBO-CITATION">99867196</idno>
+            <idno type="PROQUEST">99867196</idno>
+            <idno type="VID">169315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169315)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1073[1], 249:E1073[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Highness, for a collection towards the relief of divers Protestant churches driven out of Poland; and of twenty Protestant families driven out of the confines of Bohemia.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills, and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Woodcut above caption; initial letter.</note>
+                  <note>Annotation on Thomason copy: "May 2. 1658".</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church charities --  England --  Early works to 1800.</term>
+               <term>Waldenses --  Early works to 1800.</term>
+               <term>Protestant churches --  Poland --  Early works to 1800.</term>
+               <term>Poland --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Bohemia (Czech Republic) --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169315:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <head>
+               <figure>
+                  <q>PAX QVAERITVR BELLO</q>
+                  <q>OLIVARIVS DEI GRA:  REIPVB: ANGLIAE, SCOTIAE, ET HIBERNIAE, &amp;<hi rend="sup">c</hi> PROTECTOR</q>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>A Declaration of His HIGHNESS, for a Collection towards the relief of divers Proteſtant Churches driven out of <hi>Poland;</hi> And of Twenty Proteſtant Families driven out of the Confines of <hi>Bohemia.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector, having received a Pe<g ref="char:EOLhyphen"/>tition from ſeveral Churches of Chriſt, profeſſing the Re<g ref="char:EOLhyphen"/>formed Religion, lately ſea<g ref="char:EOLhyphen"/>ted at <hi>Leſna,</hi> and other pla<g ref="char:EOLhyphen"/>ces in <hi>Poland,</hi> repreſenting their ſad and deplorable condition, through the perſecution and cruelty of their <hi>Antichriſtian</hi> Enemies in thoſe parts, in the time of the War in <hi>Poland,</hi> by whom they have not one<g ref="char:EOLhyphen"/>ly been driven from their habitation, and ſpoi<g ref="char:EOLhyphen"/>led of their goods upon the account of Reli<g ref="char:EOLhyphen"/>gion onely, but forced to flie into <hi>Sileſia</hi> for pre<g ref="char:EOLhyphen"/>ſervation of their lives, and for the Liberty of their Conſciences, where a conſiderable
+<pb n="2" facs="tcp:169315:2"/>
+               <!-- PDF PAGE 57 -->
+number of them continue in great want and miſery. The truth whereof hath been wit<g ref="char:EOLhyphen"/>neſſed, aſwel by Deputies ſent unto His High<g ref="char:EOLhyphen"/>neſs from the ſaid Churches, authorized by an Inſtrument under the hands of the Pa<g ref="char:EOLhyphen"/>ſtors of five of thoſe Churches, as alſo by the Teſtimony of ſeveral <hi>Proteſtant</hi> Princes, who out of a deep ſence of the Calamity of thoſe diſtreſſed Exiles, have afforded them ſhelter until it ſhall pleaſe the Lord otherwiſe to pro<g ref="char:EOLhyphen"/>vide for them. And His Highneſs having in like manner received a Petition from Twen<g ref="char:EOLhyphen"/>ty Proteſtant Families heretofore ſeated in the Confines of <hi>Bohemia,</hi> where <hi>Miſnia</hi> belongs unto it, repreſenting their diſtreſſed and la<g ref="char:EOLhyphen"/>mentable condition, through the perſecution of the Ieſuites and Inquiſitors of the Houſe of <hi>Auſtria,</hi> by whom they have been driven out of their habitations, and ſpoiled of their goods, upon the ſole accompt of Religion, who now for the ſafety of their lives, and for the liberties of their Conſciences, are re<g ref="char:EOLhyphen"/>tired into the Marquiſate of <hi>Culembach,</hi> where they finde a preſent ſhelter in this their very ſad and calamitous condition, which hath been witneſſed both by their Deputies ſent unto His Highneſs, authorized by an Inſtru<g ref="char:EOLhyphen"/>ment under the hands of the chief of thoſe Families, as alſo by a publique Certificate from thence. And it being the earneſt deſire of the ſaid afflicted Churches and Families, aſ<g ref="char:EOLhyphen"/>wel by their ſeveral Petitions, as by their Deputies, that His Highneſs out of compaſ<g ref="char:EOLhyphen"/>ſion to their ſufferings, would be pleaſed to recommend their lamentable condition to their Brethren in theſe Nations, in whom they hope to finde Bowels of Mercy, yearn<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:169315:2"/>
+               <!-- PDF PAGE 57 -->
+towards thoſe, who profeſſing the ſame Faith with them, are now under ſo great ex<g ref="char:EOLhyphen"/>tremities and miſery for the Cauſe of the Go<g ref="char:EOLhyphen"/>ſpel, and teſtimony of the Lord <hi>Jeſus.</hi>
+            </p>
+            <p>His Highneſs being greatly afflicted with the miſerable and calamitous condition of the ſaid Churches, and Families, and not doubting but the people of theſe Nations, whom the Lord hath graciouſly and wonder<g ref="char:EOLhyphen"/>fully preſerved from that <hi>Antichriſtian</hi> Bon<g ref="char:EOLhyphen"/>dage and Tyranny, will have a fellow-feel<g ref="char:EOLhyphen"/>ing of the afflictions of their Brethren, hath with the Advice of His Privy-Council, thought fit to recommend their caſe to the Charity of thoſe whoſe hearts the Lord ſhall ſtir up in theſe Nations, to afford them ſome ſeaſonable relief, whoſe liberality in this kind hath been teſtified in their large Contributi<g ref="char:EOLhyphen"/>ons to the relief of the poor Proteſtants in the Valleys of <hi>Piedmont,</hi> to the refreſhing of their Bowels (touching the faithful diſtribution whereof an account is ordered by His High<g ref="char:EOLhyphen"/>neſs to be printed for general ſatisfaction.) And to the end the ſaid Collections may be carefully made, and the moneys thereupon collected be diſpoſed of, to the relief of the ſaid poor Churches, and their Members, and the Families aforeſaid, and to no other uſes, His Highneſs doth hereby require and com<g ref="char:EOLhyphen"/>mand the Miniſters and Churchwardens of the reſpective Pariſhes within <hi>England</hi> and <hi>Wales</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> the next Lords Day after this Declaration ſhall come unto their hands, to publiſh the ſame, and on the Lords day following to make a Collection of the charitable Contribution of the People in their Pariſhes, and that within
+<pb n="4" facs="tcp:169315:3"/>
+               <!-- PDF PAGE 58 -->
+three dayes after, they pay over the ſum or ſums ſo Collected unto the high Sherif of the reſpective Counties, to be by him paid into the hands of Sir <hi>Thomas Viner,</hi> and Sir <hi>Chriſtopher Pack</hi> Knights, Aldermen of the City of <hi>London,</hi> who are appointed Trea<g ref="char:EOLhyphen"/>ſurers for this ſervice, and who ſhall tranſ<g ref="char:EOLhyphen"/>mit the moneys ſo to be by them received for the relief of the ſaid poor diſtreſſed Churches, and their Members, and the aforeſaid Twen<g ref="char:EOLhyphen"/>ty families, in ſuch manner and proportions as the Committee formerly appointed for the diſpoſing of the moneys for the relief of the ſaid poor Proteſtants in <hi>Piedmont,</hi> ſhall, with reſpect to their ſeveral numbers and ſuffer<g ref="char:EOLhyphen"/>ings, think fit, and direct, and to the end none of the moneys collected for ſo pious and cha<g ref="char:EOLhyphen"/>ritable an end may miſcarry, The Miniſter and Churchwardens aforeſaid, are enjoyned upon payment of the ſaid money to the reſpe<g ref="char:EOLhyphen"/>ctive Sheriffs as aforeſaid, to ſend up unto the ſaid Sir <hi>Thomas Viner</hi> a note in writing under their hands, of the ſum ſo Collected, the Pariſh and County where ſuch Collection was made, and the perſon to whom the ſame was paid, to the end care may be taken, and the ſame may be duly returned and imployed to the uſe intended.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills,</hi> and <hi>John Field,</hi> Printers to His Highneſs. 1658.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
